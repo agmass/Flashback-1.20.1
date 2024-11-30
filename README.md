@@ -1,3 +1,10 @@
+
+
+copied from the "about" section:
+"an attempt to port flashback to 1.20. repository might die if i find out this is impossible im just hoping and praying"
+
+anyways, here's the original flashback readme:
+
 <h1 align="center">Flashback</h1>
 
 Copyright 2024 Moulberry. Do not reupload or redistribute.
